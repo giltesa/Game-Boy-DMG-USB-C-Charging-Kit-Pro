@@ -1,4 +1,4 @@
-# Game Boy DMG: USB-C Charging Kit
+# Game Boy DMG: USB-C Charging Kit PRO
 
 The **Game Boy DMG USB-C Charging Kit PRO** is a new circuit designed specifically for the **Nintendo Game Boy**. This all-in-one circuit includes not only the **charging controller** but also a **boost converter** and **audio amplifier**.
 
