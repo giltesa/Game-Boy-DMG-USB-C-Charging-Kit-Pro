@@ -10,7 +10,7 @@ The typical solution is to add a charging circuit for the battery and a power co
 
 This board adds all these features with a clean and straightforward installation:
 
-[![](https://shop.giltesa.com/wp-content/uploads/2023/08/GB-DMG-PRO-v1.0-1024x576.jpg)](https://shop.giltesa.com/wp-content/uploads/2023/08/GB-DMG-PRO-v1.0.jpg)
+[![](https://shop.giltesa.com/wp-content/uploads/2023/08/GB-DMG-PRO-v1.2_panel.jpg)](https://shop.giltesa.com/wp-content/uploads/2023/08/GB-DMG-PRO-v1.2_panel.jpg)
 
 
 ## Would you like it?
